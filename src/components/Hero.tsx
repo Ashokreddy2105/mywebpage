@@ -14,7 +14,7 @@ const Hero = () => {
           {/* Profile picture */}
           <div className="relative mx-auto w-48 h-48 mb-8 rounded-full overflow-hidden border-4 border-tertiary shadow-lg transform transition-transform duration-300 hover:scale-105">
             <img 
-              src="public/images/Ashok.jpg" 
+              src="images/Ashok.jpg" 
               alt="Nandyala Ashok Kumar Reddy" 
               className="w-full h-full object-cover"
             />
